@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TECHMIND-Daily-Blogs/static/css/main.77724486.css",
+    "main.js": "/TECHMIND-Daily-Blogs/static/js/main.8bc500a9.js",
+    "index.html": "/TECHMIND-Daily-Blogs/index.html",
+    "main.77724486.css.map": "/TECHMIND-Daily-Blogs/static/css/main.77724486.css.map",
+    "main.8bc500a9.js.map": "/TECHMIND-Daily-Blogs/static/js/main.8bc500a9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77724486.css",
+    "static/js/main.8bc500a9.js"
+  ]
+}
